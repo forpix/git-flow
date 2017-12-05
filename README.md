@@ -10,7 +10,7 @@ The master branch serves as a main branch from where we create release tags and 
 ## Hotfix branch
 
 Maintenance or “hotfix” branches are used to quickly patch production releases. Hotfix branches are a lot like release branches and feature branches except they're based on master instead of develop.
-Note: This branch must be created from master branch
+<b>Note: This branch must be created from master branch</b>
 
 ## Develop branches
 Each team must have seperate develop branch, all the features implemented by this team create pull request to merge changes in to develop branch.
